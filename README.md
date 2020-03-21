@@ -1,7 +1,7 @@
 # wp-plugins
 A collection of all the WordPress plugins I use the most and find useful.
 
-# Basic
+## Basic
 - [Jetpack](https://wordpress.org/plugins/jetpack/) (security, performance, and site management)
 - [Akismet](https://wordpress.org/plugins/akismet/) (anti spam)
 - [SeedProd](https://wordpress.org/plugins/coming-soon/) (coming soon & maintenance page creator)
@@ -10,39 +10,39 @@ A collection of all the WordPress plugins I use the most and find useful.
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/) (disable Gutenberg editor for all users and reenable the classic one)
 - [File Manager](https://wordpress.org/plugins/wp-file-manager/) (FTP manager inside WordPress administration)
 
-# SEO
+## SEO
 - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) or [All in one SEO](https://wordpress.org/plugins/all-in-one-seo-pack/) (SEO)
 - [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/) (Google sitemap generator for SEO)
 - [MonsterInsights](https://wordpress.org/plugins/google-analytics-for-wordpress/) (Google Analytics dashboard inside your WordPress installation)
 - [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/) (breadcrumbs creator)
 
-# After launch
+## After launch
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) (backup and restoration)
 - [Wordfence](https://wordpress.org/plugins/wordfence/) (firewall & security scanner)
 - [Velvet Blues Update URLS](https://wordpress.org/plugins/velvet-blues-update-urls/) (change old urls and links)
 
-# Contact forms
+## Contact forms
 - [wpforms](https://wordpress.org/plugins/wpforms-lite/) (contact form maker)
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) (contact form maker)
 
-# E-Commerce
+## E-Commerce
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/) (open-source e-commerce solution)
 
-# Caching and optimization
+## Caching and optimization
 - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) (cache activator for reducing load times)
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) (cache activator for reducing load times)
 - [Autoptimize](https://wordpress.org/plugins/autoptimize/) (minify and cache HTML, CSS and JavaScript)
 - [Optimize Database](https://wordpress.org/plugins/rvg-optimize-database/) (optimize WordPress database)
 
-# Multilanguage
+## Multilanguage
 - [Loco](https://wordpress.org/plugins/loco-translate/) (translate WordPress and localize templates)
 - [Polylang](https://wordpress.org/plugins/polylang/) (language/multilanguage manager)
 
-# Miscellaneous content
+## Miscellaneous content
 - [Popup Maker](https://wordpress.org/plugins/popup-maker/) (popup creator)
 - [WP Google Maps](https://wordpress.org/plugins/wp-google-maps/) (Google Maps creator)
 
-# Images, galleries and sliders
+## Images, galleries and sliders
 - [Nivo](https://wordpress.org/plugins/nivo-slider-lite/) (responsive image slider creator)
 - [MetaSlider](https://wordpress.org/plugins/ml-slider/) (responsive image slider creator)
 - [Photo Gallery](https://wordpress.org/plugins/photo-gallery/) (photo gallery creator)
