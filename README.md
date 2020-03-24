@@ -42,10 +42,13 @@ A collection of all the WordPress plugins I use the most and find useful.
 - [Popup Maker](https://wordpress.org/plugins/popup-maker/) (popup creator)
 - [WP Google Maps](https://wordpress.org/plugins/wp-google-maps/) (Google Maps creator)
 
-## Images, galleries and sliders
+## Images, galleries and sliders / portfolio
 - [Nivo](https://wordpress.org/plugins/nivo-slider-lite/) (responsive image slider creator)
 - [MetaSlider](https://wordpress.org/plugins/ml-slider/) (responsive image slider creator)
 - [Photo Gallery](https://wordpress.org/plugins/photo-gallery/) (photo gallery creator)
 - [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) (regenerate all thumbnails for images uploaded to your Media Library)
 - [Smush](https://wordpress.org/plugins/wp-smushit/) (image optimization)
 - [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) (image optimization)
+- [Portfolio Filter Gallery](https://wordpress.org/plugins/portfolio-filter-gallery/) (galleries for portfolios)
+- [Portfolio wp](https://wordpress.org/plugins/portfolio-wp/)
+- [Visual portfolio](https://wordpress.org/plugins/visual-portfolio/)
