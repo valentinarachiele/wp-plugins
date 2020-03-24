@@ -50,5 +50,5 @@ A collection of all the WordPress plugins I use the most and find useful.
 - [Smush](https://wordpress.org/plugins/wp-smushit/) (image optimization)
 - [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) (image optimization)
 - [Portfolio Filter Gallery](https://wordpress.org/plugins/portfolio-filter-gallery/) (galleries for portfolios)
-- [Portfolio wp](https://wordpress.org/plugins/portfolio-wp/)
-- [Visual portfolio](https://wordpress.org/plugins/visual-portfolio/)
+- [Portfolio wp](https://wordpress.org/plugins/portfolio-wp/) (WordPress layouts builder for portfolios)
+- [Visual portfolio](https://wordpress.org/plugins/visual-portfolio/) (WordPress layouts builder for portfolios)
