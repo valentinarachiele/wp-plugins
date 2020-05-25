@@ -1,4 +1,4 @@
-### Alcune guide più approfondite sulla manutenzione di un sito WordPress dopo il suo lancio.
+### Alcune guide più approfondite sulla manutenzione di un sito WordPress dopo il suo lancio
 
 Guida all'uso di [WP Fastest Cache](https://sos-wp.it/guida-wp-fastest-cache/)
 
