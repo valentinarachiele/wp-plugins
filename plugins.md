@@ -42,7 +42,7 @@ A collection of all the WordPress plugins I use the most and find useful.
 ## Miscellaneous content
 - [Popup Maker](https://wordpress.org/plugins/popup-maker/) (popup creator)
 - [WP Google Maps](https://wordpress.org/plugins/wp-google-maps/) (Google Maps creator)
-- [Conditional Widgets](https://wordpress.org/plugins/conditional-widgets/)(activate widgets conditionally)
+- [Conditional Widgets](https://wordpress.org/plugins/conditional-widgets/) (activate widgets conditionally)
 
 ## Images, galleries and sliders / portfolio
 - [Nivo](https://wordpress.org/plugins/nivo-slider-lite/) (responsive image slider creator)
