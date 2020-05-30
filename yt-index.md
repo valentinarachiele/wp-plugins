@@ -1,4 +1,5 @@
 ### Indice dei video nella playlist sul corso WordPress
+https://www.youtube.com/playlist?list=PLFaMuszpRLYU9YDKAmfHt_4S2zjHNM44b
 
 - 00_a - comprare dominio e hosting su Aruba
 - 00_b - scaricare WordPress (wordpress.org) e FileZilla
